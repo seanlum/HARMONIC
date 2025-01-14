@@ -16,3 +16,10 @@ SCAP stands for Security Content Automation Protocol. It is a suite of specifica
 ## SCAP Templates
 - [SCAP Security Guide](https://github.com/ComplianceAsCode/content)
 - [OpenSCAP Base Content](https://www.open-scap.org/security-policies/scap-security-guide/)
+
+## OVAL - Open Vulnerability Assessment Language
+- [PDF Document: Introduction to OVAL](https://csrc.nist.gov/CSRC/media/Projects/Security-Content-Automation-Protocol/documents/docs/conference%20presentations/workshops/oval%20tutorial%201%20-%20overview.pdf)
+- [OVAL - Open Vulnerability Assessment Language](https://oval.mitre.org/)
+
+## XCCDF - The Extensible Configuration Checklist Description
+- [NIST XCCDF](https://csrc.nist.gov/projects/security-content-automation-protocol/specifications/xccdf)
